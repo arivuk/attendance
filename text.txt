@@ -1,4 +1,3 @@
 this is sample new text
 new merge
 new message added
-new development needed
